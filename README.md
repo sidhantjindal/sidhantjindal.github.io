@@ -4,7 +4,7 @@ A 650 m long and 33 m wide tunnel made of concrete, glass and steel, collapsed.A
 ## INVESTIGATION FINDINGS
 The design concept used to construct the ceiling of the terminal was somewhat unusual. It was complex to understand and evaluate the force distribution since the 2D model made by the design office was not adequate as per code provisions. Redistribution of local forces from the struts to the panel was absent. Thus, the failure of a single member due to punching shear produced the collapse of domed concrete. 
 In the zone of concrete failure, the composite panels seemed to be loaded by a higher level of roof loads, increasing the punching shear by 50%. Also, the structural model failed to take into account the long-term effects of terminal structure. 
-![image](https://user-images.githubusercontent.com/56110295/227772117-fde819e1-301d-461e-a344-b1514b796f6a.png){height="100px" width="100px"}.
+![image](https://user-images.githubusercontent.com/56110295/227772117-fde819e1-301d-461e-a344-b1514b796f6a.png)
 ![image](https://user-images.githubusercontent.com/56110295/227771957-62d67234-60bb-4d4c-9dc4-1766d2293082.png)
 *  The quality of the assembled panels was affected due to the delay in executing the work. Also, the delay caused the misalignment between the composite panels of concrete. Therefore, the stresses were getting accumulated due to the eccentric loading on the composite panels. 
 *  It was observed that the design error of the slab thickness was a trade-off due to the architectural requirement. The airport authorities themselves acted as the financier and the project manager. Thus, there was no external authority to check and regulate the project. 
