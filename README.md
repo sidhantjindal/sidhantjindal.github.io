@@ -9,5 +9,12 @@ In the zone of concrete failure, the composite panels seemed to be loaded by a h
 *  The quality of the assembled panels was affected due to the delay in executing the work. Also, the delay caused the misalignment between the composite panels of concrete. Therefore, the stresses were getting accumulated due to the eccentric loading on the composite panels. 
 *  It was observed that the design error of the slab thickness was a trade-off due to the architectural requirement. The airport authorities themselves acted as the financier and the project manager. Thus, there was no external authority to check and regulate the project. 
 *  Reports and investigations confirmed that the terminal ceiling failed due to the **poor practice of construction, low-quality concrete, and lack of structural design knowledge.**
-## REASONS OF FALIURE 
 On 14 february 2005, the Administrative Investigation Commission made its findings public: “the shell had been progressively weakened due to insufficient or incorrectly positioned reinforcements, a lack of mechanical redundancy (possibilities of load transfers to other areas in the event of local failure), weakness of the wall plate (supporting the shell over its whole length) and due to the position of the struts (metal parts supporting the glasswork) within the concrete”.
+## REASONS OF FALIURE 
+The following points describe the leading causes of the progressive collapse: 
+*  Inadequate shear stiffness was developed due to the insufficient design of shear reinforcement. 
+*  Dowel bars were deeply embedded inside the concrete shell and created cracks in the concrete roof. 
+*  Several cracks were formed as a result of higher-than-expected construction loads and differential moisture and thermal movements.
+*  Investigation reports suggested that the margin of safety was lesser than anticipated during the design. 
+*  Cracks in concrete developed due to the misplacement of tensile reinforcement. Thus, the tensile stresses were not resisted effectively. 
+*  The horizontal column ties and longitudinal support beams were inadequate to provide enough support to the structural members. 
