@@ -1,3 +1,5 @@
 # Ceiling Collapse of Charles De Gaulle Airport-Terminal 2E, France
-## *DESCRIPTION OF BUILDING AND SIGNS OF FALURE BEFORE ACTUAL FALIURE
+## DESCRIPTION OF BUILDING AND SIGNS OF FALURE BEFORE ACTUAL FALIURE
 A 650 m long and 33 m wide tunnel made of concrete, glass and steel, collapsed. The accident occurred when most of the early morning flights had already disembarked, the hall was therefore partly deserted. According to witnesses, 5 minutes before the collapse, passengers and security staff noticed the appearance of a crack in the ceiling, in line with the departure lounge. Concrete dust started to fall at the same time as a crack was heard. One member of staff did not have time to warn the control station of the anomaly before the arch suddenly collapsed over a length of 30 m and width of 20 m.
+## REASONS OF FALIURE 
+On 14 february 2005, the Administrative Investigation Commission made its findings public: “the shell had been progressively weakened due to insufficient or incorrectly positioned reinforcements, a lack of mechanical redundancy (possibilities of load transfers to other areas in the event of local failure), weakness of the wall plate (supporting the shell over its whole length) and due to the position of the struts (metal parts supporting the glasswork) within the concrete”.
